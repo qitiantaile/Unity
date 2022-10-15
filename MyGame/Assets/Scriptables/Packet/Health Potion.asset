@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 375e7e8ef38cc8e45992adf797d14c29, type: 3}
+  m_Name: Health Potion
+  m_EditorClassIdentifier: 
+  m_name: Health Potion
+  m_isStackable: 0
+  m_inGameSprite: {fileID: -345436167, guid: d3717c4d7f7221246a62a975c45a2947, type: 3}
+  m_uiSprite: {fileID: -345436167, guid: d3717c4d7f7221246a62a975c45a2947, type: 3}
